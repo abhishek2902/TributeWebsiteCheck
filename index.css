@@ -1,0 +1,48 @@
+*{
+padding: 0%;
+margin: 0;
+background-color: rgb(219, 219, 180);
+margin-left: 2vw;
+    margin-right: 2vw;
+}
+.head{
+    margin-top: 6vw;
+    display: flex;
+    margin-bottom: 6vw;
+    padding-bottom: 6vw;
+    border-bottom: 2px solid black;
+    justify-content: space-between;
+}
+.photo{
+    border-radius: 100%;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+main{
+    
+}
+.heading1{
+    font-size: 4vw;
+}
+.para1{
+    font-size: 2vw;
+}
+
+/* Main part */
+.mainheader{
+    margin-bottom: 20px;
+    font-size: 5vw;
+}
+
+.mainPara{
+    font-size: 3vw;
+    margin-bottom: 10px;
+}
+
+.lastPara{
+    text-align: right;
+}
